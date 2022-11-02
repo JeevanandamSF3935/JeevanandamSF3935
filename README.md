@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JeevanandamSF3935
+- 👀 I’m interested in doing large things in simple way
+- 🌱 I’m currently learning ASP.NET Core
+- 📫 How to reach me jeevanandam.sf3935@gmail.com
